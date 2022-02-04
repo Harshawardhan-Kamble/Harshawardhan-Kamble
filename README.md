@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshawardhan-Kamble
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning C++, Html,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kambleharsh08@outlook.com
 
