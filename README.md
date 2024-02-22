@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/k_harsh08" target="blank"><img src="https://img.shields.io/twitter/follow/k_harsh08?logo=twitter&style=for-the-badge" alt="k_harsh08" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning FullStack Web Development
 
 - 📫 How to reach me **kambleharsh08@outlook.com**
 
