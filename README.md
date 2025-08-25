@@ -48,9 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshawardhan-kamble&layout=compact&theme=radical" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshawardhan-kamble&theme=radical" alt="streak-stats" />
-</p>
 
 ---
 
